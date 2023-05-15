@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<div style="text-align:center"><img src="https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/28oct/What-is-Data-Analysis.jpg" /></div>
+<div style="text-align:center"><img src="https://www.techrepublic.com/wp-content/uploads/2015/09/dataanalysisistockrobuart.jpg" /></div>
 
 
 </p>
