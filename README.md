@@ -33,7 +33,7 @@ The purpose of this repository is to organize, track and showcase my data-driven
 
 <br>
 
-* __Industries and Datasets__ :
+* __Open Industry Datasets__ :
   - Retail and Supply Chain:
     - Retail Data Analytics: [Data Source](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
     - E-commerce retail sales: [Data Source](https://www.kaggle.com/datasets/census/e-commerce-retail-sales-series-data-collection)
