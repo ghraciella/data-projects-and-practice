@@ -28,6 +28,7 @@ The purpose of this repository is to organize, track and showcase my data-driven
   - Data Science
   - Data Engineering
   - Data Analysis
+  - Analytical Engineering
   - Software Development
 
 <br>
