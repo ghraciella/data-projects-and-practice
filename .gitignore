@@ -566,22 +566,20 @@ data/
 # ignore all sub directries and files?
 
 *
-*/*
+
 
 
 # private: sub-repos to be worked on
 
-analytical-engineering-projects/
-data-analysis-projects/
-data-engineering-projects/
-data-science-projects/
+#analytical-engineering-projects/
+#data-analysis-projects/
+#data-engineering-projects/
+#data-science-projects/
 
 #analytical-engineering-projects/*
 #data-analysis-projects/*
 #ata-engineering-projects/*
 #data-science-projects/*
-
-
 
 
 #Only Include these specific directories and subdirectories:
@@ -590,5 +588,8 @@ data-science-projects/
 #!data-analysis-projects/*.*/
 #!data-engineering-projects/*
 #!data-science-projects/*
+
+!.gitignore
+!README.md
 
 
