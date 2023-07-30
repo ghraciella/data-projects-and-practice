@@ -1,9 +1,12 @@
-# Standard-Bank-Data-Analysis-Home-Loan-Eligibility-Prediction
-Standard Bank Data Analysis for Home Loan Eligibility Prediction
+# Standard Bank Data Analysis Home Loan Eligibility Prediction
+
+---
 
 
+<img src="imgs/standard.png" width="425"/><img src="imgs/foragelogo.png" width="425"/>  
 
-<img src="/imgs/standard.png" width="425"/><img src="/imgs/foragelogo.png" width="425"/>  
+---
+---
 
 <p><h2 align="center"><font color="red">  Project Overview, Task and Solution </font></h2>
 
@@ -22,7 +25,9 @@ the notification process. </li>
 <li> Solution: An applicant can apply on any device by filling his/her information (Gender, Marital Status, Income etc.). Upon completion the ML model makes a predict (based on historical data that it has been trained on). The prediction will appear on the device as Accept or Decline on the 
 same device in a matter of seconds. </li>
 
-<img src = "/imgs/projectsolution.jpg">
+<br>
+
+<img src = "imgs/projectsolution.jpg">
 
 
 
@@ -41,7 +46,7 @@ Follow the data science lifecycle to fulfill the objective. The data science lif
 
 Working understanding of the CRoss Industry Standard Process for Data Mining (CRISP-DM). CRISP-DM is a process serves as the base for a data science process it has several sequential phases which answers 6 questions:
 
-<img src = "/imgs/CRISP-DM.png">
+<img src = "imgs/CRISP-DM.png">
 
 
 
@@ -139,7 +144,9 @@ application while 192 don‘t.
 
 <li> Yes(Y) and No(N) </li>
 
-<img src = "/imgs/comparisonloanstatus.jpg">
+<br>
+
+<img src = "imgs/comparisonloanstatus.jpg">
 
 
 ### Comparison of Loan Status based on Gender
@@ -150,8 +157,9 @@ Analysis: There are 489 Males and 112 Females. The Comparison shows that based o
 <li> Yes(Y) and No(N) </li>
 <li> Male(M) and Female(F) </li>
 
+<br>
 
-<img src = "/imgs/comparisonloanstatusgender.jpg">
+<img src = "imgs/comparisonloanstatusgender.jpg">
 
 
 ### Comparison of Loan Status based on Gender
@@ -159,10 +167,11 @@ Analysis: There are 489 Males and 112 Females. The Comparison shows that based o
 Analysis: There are 475 customers with credit histories and 112 without. The comparison shows that based on the historical dataset, that applicants with credit histories are more likely to default than those who don't have them.
 
 <li> Yes(Y) and No(N) </li>
-<li> No Credit History (0) and Credit History(1) </li>
+<li> No Credit History (0) and Credit History (1) </li>
 
+<br>
 
-<img src = "/imgs/comparisoncredithistoryloanstatus.jpg">
+<img src = "imgs/comparisoncredithistoryloanstatus.jpg">
 
 
 ### Confusion Matrix
@@ -171,7 +180,7 @@ Analysis: The confusion matrix shows there is a correlation between Applicant‘
 
 
 
-<img src = "/imgs/confusionmatrix.jpg">
+<img src = "imgs/confusionmatrix.jpg">
 
 
 

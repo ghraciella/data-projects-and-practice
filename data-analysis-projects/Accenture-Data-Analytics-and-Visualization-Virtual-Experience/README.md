@@ -1,9 +1,6 @@
-# Accenture-Data-Analytics-and-Visualization-Virtual-Experience
+# Accenture Data Analytics and Visualization Virtual Experience
 
-
-Data Analytics, Microsoft PowerBI, Microsoft Excel Python
-
-
+---
 
 
 
@@ -16,7 +13,13 @@ Social Buzz is a large social media company with the unique idea of emphasizing 
 
 Social Buzz has reached over 500 million active users each month over the past 5 years and the amount of data that they create, collect also analyze is huge. Every day over 100,000 pieces of content mostly in an unstructured form, ranging such as text, images, videos and GIFs are posted. 
 
+---
 
+Data Analytics, Microsoft PowerBI, Microsoft Excel Python
+
+
+---
+---
 
 <p><h2 align="center"><font color="red">  Task </font></h2>
 
@@ -76,11 +79,11 @@ Basically the business problem to be tackled by me for this project was how to m
 
 For my  Data Visualization to provide insights, I used MIcrosoft Power BI. I created a dashboard in the report view and used some common visualization char types from the visualization pane to help provide some visual insights in understanding the popularity of different categories based on scores, reactions and sentiments.
 
-<img src = "/images/top5socialbuzz.jpg">
+<img src = "images/top5socialbuzz.jpg">
 
 
 
-
+---
 
 <p><h2 align="center"><font color="red"> Analysis and Insights </font></h2>
 
