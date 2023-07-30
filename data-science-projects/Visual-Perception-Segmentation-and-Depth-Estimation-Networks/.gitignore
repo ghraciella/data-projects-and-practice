@@ -1,11 +1,6 @@
 # ignore files
 
 .vs/
-#*.png
-#*.jpg
-#*.jpeg
-#*.json
-#*.pdf
 *.lib
 *.dll
 *.exe
@@ -224,11 +219,6 @@ dmypy.json
 
 # extensions and custom entries
 .vs/
-*.png
-*.jpg
-*.jpeg
-*.json
-*.pdf
 *.lib
 *.dll
 *.exe
