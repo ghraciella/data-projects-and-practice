@@ -62,7 +62,7 @@ The purpose of this repository is to organize, track and showcase my data-driven
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`Accenture Virtual Experience - Data Analytics and Visualization`](https://github.com/ghraciella/Accenture-Data-Analytics-and-Visualization-Virtual-Experience)
+<span style="color:green"> __Project :__  </span> [`Accenture Virtual Experience - Data Analytics and Visualization`](https://github.com/ghraciella/data-practitioner-project-portfolio/tree/main/data-analysis-projects/Accenture-Data-Analytics-and-Visualization-Virtual-Experience)
 
 
 <span style="color:green"> __Description :__   </span> This project involves identifying the client’s business problem based on the brief and datasets provided, it also involved use of the ETL (Extract, Transform and Load) process. I also created a dashboard with several visualizations using Power BI in order to
@@ -73,7 +73,7 @@ get insights, make my analysis and give my recommendations.
 <span style="color:green"> __Skills:__  </span>  Business and Data understanding, ETL, statistical data analysis, data visualization.
 
 ---
-<span style="color:green"> __Project :__  </span>  [`Standard Bank Forage Virtual Project - Data Analysis and Prediction on Home Loan Eligibility Prediction`](https://github.com/ghraciella/Standard-Bank-Data-Analysis-Home-Loan-Eligibility-Prediction)
+<span style="color:green"> __Project :__  </span>  [`Standard Bank Forage Virtual Project - Data Analysis and Prediction on Home Loan Eligibility Prediction`](https://github.com/ghraciella/data-practitioner-project-portfolio/tree/main/data-analysis-projects/Standard-Bank-Data-Analysis-Home-Loan-Eligibility-Prediction)
 
 
 <span style="color:green"> __Description :__   </span> This project involves exploring the data as an analyst and creating a digital based solution for the home loan department of standard bank using machine learning algorithms to improve processing time and prediction of a loan applicant’s eligibility.
@@ -83,7 +83,7 @@ get insights, make my analysis and give my recommendations.
 <span style="color:green"> __Skills:__  </span> Business and Data understanding, ETL, statistical data analysis, data visualization.
 
 ---
-<span style="color:green"> __Project :__  </span>  [`Visual Perception - Segmentation and Depth Estimation Networks`](https://github.com/ghraciella/Visual-Perception-Segmentation-and-Depth-Estimation-Networks)
+<span style="color:green"> __Project :__  </span>  [`Visual Perception - Segmentation and Depth Estimation Networks`](https://github.com/ghraciella/data-practitioner-project-portfolio/tree/main/data-science-projects/Visual-Perception-Segmentation-and-Depth-Estimation-Networks)
 
 
 <span style="color:green"> __Description :__   </span> The project involves the implementation of a segmentation network to classify desired road participants on a pixel-based level and also the implementation of a depth estimation network for estimating the depth (distance) of road objects in
@@ -96,7 +96,7 @@ libraries.
 
 
 ---
-<span style="color:green"> __Project :__  </span>  [`Goldman Sachs Virtual Experience - Excel Business Project`](https://github.com/ghraciella/Goldman-Sachs-Excel-Business-Virtual-Experience-Project)
+<span style="color:green"> __Project :__  </span>  [`Goldman Sachs Virtual Experience - Excel Business Project`](https://github.com/ghraciella/data-practitioner-project-portfolio/tree/main/data-science-projects/Goldman-Sachs-Excel-Business-Virtual-Experience-Project)
 
 
 <span style="color:green"> __Description :__   </span> This project involves the creation forecast operating assumptions for the client’s revenue, costs and cashflow, translated the set of forecasted assumptions and used it to build the profit and loss (P&L) forecast statements. Utilized the cash flow assumptions
