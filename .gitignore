@@ -1,6 +1,11 @@
 ## The .gitignore file specifies things that git should ignore. 
 ## This default template includes entries for R, Python and visual studio
 
+
+# Data files
+data/
+
+
 ##
 ## Add custom entries below here.
 ##
@@ -558,14 +563,12 @@ junit/
 
 
 # Mac stuff
-MACOSX
+MACOSX/
 
-# Data files
-data/
 
 # ignore all sub directries and files?
 
-*
+#*
 
 
 
