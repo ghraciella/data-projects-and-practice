@@ -1,11 +1,11 @@
 # ignore files
 
 .vs/
-*.png
-*.jpg
-*.jpeg
-*.json
-*.pdf
+#*.png
+#*.jpg
+#*.jpeg
+#*.json
+#*.pdf
 *.lib
 *.dll
 *.exe

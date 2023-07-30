@@ -193,11 +193,6 @@ dmypy.json
 
 # extensions and custom entries
 .vs/
-*.png
-*.jpg
-*.jpeg
-*.json
-*.pdf
 *.lib
 *.dll
 *.exe
