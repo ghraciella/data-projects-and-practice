@@ -18,42 +18,7 @@ The purpose of this repository is to organize, track and showcase my data-driven
 
 <br>
 
----
----
 
-## <span style="color:grey"> Repository Details </span>
----
-
-* __Areas of Interests__ :
-  - Data Science
-  - Data Engineering
-  - Data Analysis
-  - Analytical Engineering
-  - Software Development
-
-<br>
-
-* __Open Industry Datasets__ :
-  - Retail and Supply Chain:
-    - Retail Data Analytics: [Data Source](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
-    - E-commerce retail sales: [Data Source](https://www.kaggle.com/datasets/census/e-commerce-retail-sales-series-data-collection)
-    - Bike Sales Data
-    - Online Retail : [Data Source](https://www.kaggle.com/datasets/sanlian/online-retail-dataset)
-
-  - Real Estate
-    - Apartment Rental Offers in Germany: [Data Source](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany) 
-    - Dragon Real Estate - Price Predictor: [Data Source](https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset)
-
-  - Health and Fitness:
-    - LA Restaurant and Market Health Data: [Data Source](https://www.kaggle.com/datasets/cityofLA/la-restaurant-market-health-data)
-    - Maternal Health Risk: [Data Source](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)
-    - Mental Health in Tech: [Data Source](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)  
-    - GP Prescription: [Data Source](https://www.kaggle.com/datasets/nhs/general-practice-prescribing-data)
-    - Health Insurance: [Data Source](https://www.kaggle.com/datasets/omartronco/health-insurance-data)
-    - Diabetes Indicators: [Data Source](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
-
-  
- 
 ---
 ---
 
@@ -147,7 +112,42 @@ the business will perform over the next 5 years.
 
 
 
+---
+---
 
+## <span style="color:grey"> Repository Details </span>
+---
+
+* __Areas of Interests__ :
+  - Data Science
+  - Data Engineering
+  - Data Analysis
+  - Analytical Engineering
+  - Software Development
+
+<br>
+
+* __Open Industry Datasets__ :
+  - Retail and Supply Chain:
+    - Retail Data Analytics: [Data Source](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
+    - E-commerce retail sales: [Data Source](https://www.kaggle.com/datasets/census/e-commerce-retail-sales-series-data-collection)
+    - Bike Sales Data
+    - Online Retail : [Data Source](https://www.kaggle.com/datasets/sanlian/online-retail-dataset)
+
+  - Real Estate
+    - Apartment Rental Offers in Germany: [Data Source](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany) 
+    - Dragon Real Estate - Price Predictor: [Data Source](https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset)
+
+  - Health and Fitness:
+    - LA Restaurant and Market Health Data: [Data Source](https://www.kaggle.com/datasets/cityofLA/la-restaurant-market-health-data)
+    - Maternal Health Risk: [Data Source](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)
+    - Mental Health in Tech: [Data Source](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)  
+    - GP Prescription: [Data Source](https://www.kaggle.com/datasets/nhs/general-practice-prescribing-data)
+    - Health Insurance: [Data Source](https://www.kaggle.com/datasets/omartronco/health-insurance-data)
+    - Diabetes Indicators: [Data Source](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+
+  
+ 
 
 
 
