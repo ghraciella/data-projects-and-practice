@@ -103,7 +103,7 @@ the business will perform over the next 5 years.
 <span style="color:green"> __Project :__  </span>  [` Bachelor Thesis - Optimization of a Manufacturing Company’s Profit using Linear Programming`]
 
 
-<span style="color:green"> __Description :__   </span> This project involves working in a team to predict the delivery time for a particular freight transportation process and also determine which processes are important business using statistical and machine learning methods.
+<span style="color:green"> __Description :__   </span> 
 
 <span style="color:green"> __Skills:__  </span> Linear programming, sensitivity analysis, mathematical methods, data collection, data cleaning, data analysis, public speaking, optimization.
 
