@@ -77,7 +77,7 @@ the business will perform over the next 5 years.
 
 
 ---
-<span style="color:green"> __Project :__  </span>  [`Applications of Neural Network Models in Kaggle Competition`](https://github.com/ghraciella/Accenture-Data-Analytics-and-Visualization-Virtual-Experience)
+<span style="color:green"> __Project :__  </span>  [`Applications of Neural Network Models in Kaggle Competition`](https://github.com/ghraciella/Thesis-Neural-Network-Kaggle-Datasets-Kvasir-Malaria)
 
 
 <span style="color:green"> __Description :__   </span> This project involves the exploration of Kaggle Datasets ( MNIST, Malaria Cell Classification and Kvasir Endoscopic Images) and application of neural network algorithms on these data. It also explores the mathematics behind these algorithms, the optimization of the hyperparameters of the networks and comparison of different optimization algorithms on these networks.
@@ -89,7 +89,7 @@ the business will perform over the next 5 years.
 
 
 ---
-<span style="color:green"> __Project :__  </span>  [` Data Analytics Project - Predictive Monitoring andOptimization of Transport and Logistic Processes`](https://github.com/ghraciella/Accenture-Data-Analytics-and-Visualization-Virtual-Experience)
+<span style="color:green"> __Project :__  </span>  [` Data Analytics Project - Predictive Monitoring andOptimization of Transport and Logistic Processes`](https://github.com/ghraciella/data-practitioner-project-portfolio/tree/main/data-science-projects/Prediction-and-Optimization-Logisitic-Analysis)
 
 
 <span style="color:green"> __Description :__   </span> This project involves working in a team to predict the delivery time for a particular freight transportation process and also determine which processes are important business using statistical and machine learning methods.
