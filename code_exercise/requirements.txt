@@ -1,0 +1,5 @@
+pytest==7.4.3
+exercism==3.2.0
+python-dotenv==1.0.0
+psycopg2-binary
+SQLAlchemy==2.0.15
