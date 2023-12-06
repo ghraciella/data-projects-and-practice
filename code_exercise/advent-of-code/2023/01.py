@@ -20,24 +20,18 @@ def search_replace_word_digits(input_data):
 
 
 def get_calibration_value(input_data):
-    
-    input_values = []
-    for char in input_data:
-        input_value = ''.join([i for i in char if i.isdigit()])
-        if input_value:
-            input_values.append(str(input_value))
-        else:
-            input_values.append(str(0))
+
+    input_values = [(''.join([str(i) for i in char if i.isdigit()])) for char in input_data]
+    if input_values:
+        input_values = [value for value in input_values]
 
     calibration_values = []
-
     for i in input_values:
         calibration_value = i[0] + i[-1] 
         calibration_values.append(calibration_value)
         continue     
 
     return calibration_values
-
 
 @profile
 def sum_calibration_values(calibration_values):
