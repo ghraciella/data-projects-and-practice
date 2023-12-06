@@ -1,10 +1,12 @@
-# Data Practitoner : Project Portfolio 
+# Data Practitoner : Projects and Fun Exercises
 
 ---
 ## <span style="color:grey"> About </span>
 
 
-The purpose of this repository is to organize, track and showcase my data-driven related projects. 
+The purpose of this repository is to organize, track and showcase my data-related projects. It also contains exercises solved in my fun time from different platforms and open challenges like [avent of code](https://adventofcode.com/), [exercism](https://exercism.org/), [statascratch](https://www.stratascratch.com/) and so on.
+
+
 
 <p align="center">
 
@@ -18,6 +20,20 @@ The purpose of this repository is to organize, track and showcase my data-driven
 
 <br>
 
+
+---
+---
+
+## <span style="color:grey"> Programming Exercises </span>
+---
+
+* advent of code subdirectory : [avent of code](/data-practitioner-project-portfolio/code_exercise/advent-of-code)
+* python exercism-tracks subdirectory : [python track exercises](/data-practitioner-project-portfolio/code_exercise/python)
+* sql exercism-tracks subdirectory : [sql track exercises](/data-practitioner-project-portfolio/code_exercise/sql)
+* other sources : leetcode, statascratch, etc
+* random exercises
+
+<br>
 
 ---
 ---

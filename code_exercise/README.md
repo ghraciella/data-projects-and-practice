@@ -1,19 +1,12 @@
 
-# Programming Exercises
+# <span style="color:grey"> Programming Exercises </span>
+---
 
-- code practice exercises
-- advent of code excersise practice: [avent of code](https://adventofcode.com/)
-- excercises from exercism-tracks
-- excercises and solutionfrom other sources : leetcode, statascratch, etc
-- random
-
-
-
-## Containerization with Docker
-Making use of docker to set up
-
-
-
+* advent of code subdirectory : [avent of code](/code_exercise/advent-of-code)
+* python exercism-tracks subdirectory : [python track exercises](/code_exercise/python)
+* sql exercism-tracks subdirectory : [sql track exercises](/code_exercise/sql)
+* other sources : leetcode, statascratch, etc
+* random exercises
 
 
 
