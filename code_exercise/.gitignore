@@ -513,3 +513,15 @@ spark-warehouse/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,spark,scala,kotlin,venv,ruby,flask,database
 
+
+
+# custom adds
+/.tmp_doc.md
+/.sessions
+/.daily_tasks
+/.puzzle_inputs
+/.data
+
+
+
+

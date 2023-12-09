@@ -138,7 +138,12 @@ dmypy.json
 #stats/*.csv
 
 
-# other stuff
+# custom adds
+/.tmp_doc.md
+/.sessions
+/.daily_tasks
+/.puzzle_inputs
+/.data
 **/.daily_tasks
 **/.sessions
 **/.puzzle_inputs
