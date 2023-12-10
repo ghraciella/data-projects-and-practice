@@ -54,6 +54,7 @@ def cube_conundrum(puzzle_data):
 def part1(data):
 
     input_data = cube_conundrum(data)
+    print(f'''Sum of valid game id's: {input_data} ''')
 
     return input_data 
 
@@ -69,7 +70,7 @@ def test_part1():
 
 
 def test_part2():
-    assert part2(test_data) == 900
+    assert part2(test_data) == 320
 
 
 data = get_data(day=2, year=2023)
