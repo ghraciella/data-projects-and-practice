@@ -27,9 +27,9 @@ The purpose of this repository is to organize, track and showcase my data-relate
 ## <span style="color:grey"> Programming Exercises </span>
 ---
 
-* advent of code subdirectory : [avent of code](/data-practitioner-project-portfolio/code_exercise/advent-of-code)
-* python exercism-tracks subdirectory : [python track exercises](/data-practitioner-project-portfolio/code_exercise/python)
-* sql exercism-tracks subdirectory : [sql track exercises](/data-practitioner-project-portfolio/code_exercise/sql)
+* advent of code subdirectory : [avent of code](/code_exercise/advent-of-code)
+* python exercism-tracks subdirectory : [python track exercises](/code_exercise/python)
+* sql exercism-tracks subdirectory : [sql track exercises](/code_exercise/sql)
 * other sources : leetcode, statascratch, etc
 * random exercises
 
